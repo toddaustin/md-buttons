@@ -1,6 +1,6 @@
 body {
     font: 16px arial, helvetica, sans serif;
-    background: url(http://toddaustin.com/v4/img/bg.png);
+    background: url('http://toddaustin.com/v4/img/bg.png');
     margin: 0;
     padding:0;
 }
@@ -8,11 +8,11 @@ body {
 header {
     display: block;
     border-bottom: 1px solid #fff;
-    color:#fff;
+    color:#ffc000;
     margin: 0;
     height: 110px;
     padding: 20px;
-    background: #fff url('http://toddaustin.com/moosic/images/studio.jpg') no-repeat center top fixed;
+    background: #fff url('http://toddaustin.com/moosic/images/studio.jpg') no-repeat 15% top fixed;
 }
 
 h1 {
@@ -92,11 +92,11 @@ section {
     background-color: #fff;
     border: 1px solid #fff;
     border-radius: 30px;
-    color: #E53935;
+    color: #0277BD;
 }
 
 .back:hover, .back:active {
-    background-color: #E53935;
+  background-color: #ffc000;
     border: 1px solid #fff;
-    color: #fff;
+    color: #01579B;
 }
