@@ -12,7 +12,7 @@ header {
     margin: 0;
     height: 110px;
     padding: 20px;
-    background: #fff url('http://toddaustin.com/moosic/images/studio.jpg') no-repeat center top;
+    background: #fff url('http://toddaustin.com/moosic/images/studio.jpg') no-repeat center top fixed;
 }
 
 h1 {
