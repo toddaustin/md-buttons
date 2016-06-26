@@ -2,13 +2,13 @@ body {
     font: 16px arial, helvetica, sans serif;
     background: url('http://toddaustin.com/v4/img/bg.png');
     margin: 0;
-    padding:0;
+    padding: 0;
 }
 
 header {
     display: block;
     border-bottom: 1px solid #fff;
-    color:#ffc000;
+    color: #ffc000;
     margin: 0;
     height: 110px;
     padding: 20px;
@@ -31,12 +31,14 @@ section {
     margin: 0 25px;
 }
 
+
 /******************************************************************************
  * Buttons ********************************************************************
  ******************************************************************************/
+
 .button {
     background-color: #0277BD;
-    border:none;
+    border: none;
     border-radius: 3px;
     color: #fff;
     cursor: pointer;
@@ -74,8 +76,7 @@ section {
 }
 
 .button-sm:hover {
-    color:#fff;
-
+    color: #fff;
 }
 
 .button-md {
@@ -90,13 +91,14 @@ section {
 
 .back {
     background-color: #fff;
-    border: 1px solid #fff;
+    border: none;
     border-radius: 30px;
     color: #0277BD;
 }
 
-.back:hover, .back:active {
-  background-color: #ffc000;
-    border: 1px solid #fff;
-    color: #01579B;
+.back:hover,
+.back:active {
+    background-color: #ffc000;
+    border: none color: #01579B;
+    box-shadow: none;
 }
