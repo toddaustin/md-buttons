@@ -1,7 +1,11 @@
 body {
     font: 16px arial, helvetica, sans serif;
     background: url(http://toddaustin.com/v4/img/bg.png);
-    margin: 3em;
+    margin: 0 3em;
+}
+
+header {
+    margin: 2em 0;
 }
 
 h3 {
@@ -66,4 +70,13 @@ h3 {
 .button-lg {
     font-size: 1.5em;
     padding: 20px 50px;
+}
+
+.back {
+    background-color: #C62828;
+    border: 1px solid #B71C1C;
+}
+
+.back:hover {
+    background-color: #E53935;
 }
