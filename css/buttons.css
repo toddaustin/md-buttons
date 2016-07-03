@@ -1,26 +1,23 @@
+html,
 body {
+    background: #000 url('../images/studio.jpg') no-repeat center center fixed;
+    color: #fff;
     font: 16px arial, helvetica, sans serif;
-    background: url('http://toddaustin.com/v4/img/bg.png');
-    margin: 0;
+    margin: 0em;
     padding: 0;
 }
 
-header {
-    border-bottom: 1px solid #fff;
-    color: #ffc000;
-    margin: 0;
-    padding: 0 0 20px;
-    background: #fff url('http://toddaustin.com/moosic/images/studio.jpg') no-repeat 15% top fixed;
-}
+
 
 h1 {
+    color: #ffc000;
     margin: 10px 0 10px 20px;
     padding: 0;
     font-size: 3em
 }
 
 h3 {
-    color: #01579B;
+   color: #fff;
     margin: 20px 0;
     padding: 0;
 }
