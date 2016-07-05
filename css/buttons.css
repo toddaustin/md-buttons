@@ -98,6 +98,7 @@ a:active {
 
 .button:hover {
     background-color: #03A9F4;
+     box-shadow:none;
 }
 
 .button:active {
