@@ -1,7 +1,7 @@
 html,
 body {
     background: #000 url('../images/bg.png');
-    color: #fff;
+    color: rgb(2, 119, 189);
     font: 16px arial, helvetica, sans serif;
     margin: 0em;
     padding: 0;
@@ -31,8 +31,7 @@ section {
  ******************************************************************************/
 
 ul {
-   /* background-color: #0277BD;*/
-    background-color: rgba(2, 119, 189,0.5);
+    background-color: rgba(2, 119, 189,0.8);
     border-bottom: 1px solid rgba(49,144,201,.25);
     border-top: 1px solid rgb(1,87,155);
     cursor: pointer;
